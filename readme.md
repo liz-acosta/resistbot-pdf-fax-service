@@ -5,14 +5,14 @@ Not anywhere near complete, but it's something to work with.
 You can run it locally by:
 - Establishing and activating a virtual environment
 -- In the project folder:
-```$ pip install virtualenv
-$ virtualenv venv
-$ source venv/bin/activate```
+`$ pip install virtualenv`
+`$ virtualenv venv`
+`$ source venv/bin/activate`
 - Installing the requirements.txt file
 `$ pip install requirements.txt`
-- Create your own `configs.py` following <a href="https://github.com/liz-acosta/resistbot-pdf-fax-service/blob/master/configs_example.py"`configs_example.py`</a>
+- Creating your own `configs.py` following the <a href="https://github.com/liz-acosta/resistbot-pdf-fax-service/blob/master/configs_example.py">configs_example.py</a> and filling in your own keys
 - Running `$ python app.py` from command line
-- Navigating to <a href="localhost:5000"</a>
+- Navigating to <a href="localhost:5000">localhost</a>
 
 The web interface is provided simply for testing purposes and is not intended for the final project.
 
