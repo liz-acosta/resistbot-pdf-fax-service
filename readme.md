@@ -4,12 +4,12 @@ Not anywhere near complete, but it's something to work with.
 
 You can run it locally by:
 - Establishing and activating a virtual environment
--- In the project folder:
-`$ pip install virtualenv`
-`$ virtualenv venv`
-`$ source venv/bin/activate`
-- Installing the requirements.txt file
-`$ pip install requirements.txt`
+<br>In the project folder:
+<br>`$ pip install virtualenv`
+<br>`$ virtualenv venv`
+<br>`$ source venv/bin/activate`
+- Installing the requirements.txt file:
+<br>`$ pip install requirements.txt`
 - Creating your own `configs.py` following the <a href="https://github.com/liz-acosta/resistbot-pdf-fax-service/blob/master/configs_example.py">configs_example.py</a> and filling in your own keys
 - Running `$ python app.py` from command line
 - Navigating to <a href="localhost:5000">localhost</a>
