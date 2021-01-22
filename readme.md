@@ -1,3 +1,5 @@
+MAKING A BIG BIG CHANGE!!!
+
 Flask service providing endpoints for other Resistbot services. Takes in text, creates a pdf, and sends a fax of that pdf.
 
 Not anywhere near complete, but it's something to work with.
